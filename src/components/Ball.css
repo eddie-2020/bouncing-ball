@@ -1,0 +1,8 @@
+.ball {
+    width: 20px;
+    height: 20px;
+    background-color: red; /* You can use any color you prefer */
+    position: absolute;
+    border-radius: 50%;
+  
+}
